@@ -24,8 +24,8 @@ Arı Takvim consolidates all three into **a single screen**, removing the need f
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────────────────────────────┐
-│                   UI Layer                     │
+┌───────────────────────────────────────────────┐
+│                   UI Layer                    │
 │         (Flutter Widgets + Provider)          │
 └───────────────────┬───────────────────────────┘
                      │
@@ -35,10 +35,10 @@ Arı Takvim consolidates all three into **a single screen**, removing the need f
 │    rate limiting, notification scheduling)    │
 └─────┬─────────────────────────────┬───────────┘
       │                             │
-┌─────▼─────────┐           ┌───────▼──────────┐
-│  Auth & API    │           │  Local Cache      │
-│  Services      │           │  (SharedPreferences)│
-│  (Dio + cookie │           └───────────────────┘
+┌─────▼──────────┐          ┌───────▼──────────────┐
+│  Auth & API    │          │  Local Cache         │
+│  Services      │          │  (SharedPreferences) │
+│  (Dio + cookie │          └──────────────────────┘
 │  jar-based SSO │
 │  sessions)     │
 └────────────────┘
