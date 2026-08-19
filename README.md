@@ -73,8 +73,9 @@ Feel free to reach out if you'd like to review the code or discuss the implement
 
 ## 📱 Screenshots
 
-<!-- Add your own screenshots here, e.g.: -->
-<!-- ![Class Schedule](screenshots/schedule.png) ![Assignments](screenshots/assignments.png) ![Exams](screenshots/exams.png) -->
+![Class Schedule](screenshots/schedule.png)
+![Assignments](screenshots/homeworks.png)
+![Exams](screenshots/finals.png)
 
 ## 📚 What I Learned
 
