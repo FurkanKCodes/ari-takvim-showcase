@@ -73,9 +73,9 @@ Feel free to reach out if you'd like to review the code or discuss the implement
 
 ## 📱 Screenshots
 
-![Class Schedule](screenshots/schedule.png)
-![Assignments](screenshots/homeworks.png)
-![Exams](screenshots/finals.png)
+![Class Schedule](screenshots/schedule.jpeg)
+![Assignments](screenshots/homeworks.jpeg)
+![Exams](screenshots/finals.jpeg)
 
 ## 📚 What I Learned
 
