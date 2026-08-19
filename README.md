@@ -73,9 +73,11 @@ Feel free to reach out if you'd like to review the code or discuss the implement
 
 ## 📱 Screenshots
 
-![Class Schedule](screenshots/schedule.jpeg)
-![Assignments](screenshots/homeworks.jpeg)
-![Exams](screenshots/finals.jpeg)
+<p align="center">
+  <img src="screenshots/schedule.jpeg" width="250" />
+  <img src="screenshots/homeworks.jpeg" width="250" />
+  <img src="screenshots/finals.jpeg" width="250" />
+</p>
 
 ## 📚 What I Learned
 
